@@ -1,5 +1,7 @@
 # MinimalServer
 
+[![Build Status](https://travis-ci.org/dflima/minimal-server.svg?branch=master)](https://travis-ci.org/dflima/minimal-server)
+
 **TODO: Add description**
 
 ## Installation
